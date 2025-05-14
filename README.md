@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello, Gabriel Here! Nice to Meet You 👋
 
 <!--
 **Shige15/shige15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Gabriel Banner](/img/banner-gabriel.png)
+
+- 🔭 I’m currently working on [**Fayara**](https://fayara.my.id)
+- 👯 I’m looking to collaborate on **React Project**
+- 📫 How to reach me: gabrielalfarez14@gmail.com
+
+![Gym Time](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI3dG4yNDNpZjUwZ3Y1Y3Z0NXZwOTk1c3libm40cjZxZGFhamFsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjitqVvzf8l86wVqR5/giphy.gif)
