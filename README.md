@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Gabriel Banner](/img/banner-gabriel.png)
 
-- 🔭 I’m currently working on [**Fayara**](https://fayara.my.id)
+- 🔭 I’m currently working on [**RUTEE**](https://rutee.id)
 - 👯 I’m looking to collaborate on **React Project**
 - 📫 How to reach me: gabrielalfarez14@gmail.com
 
